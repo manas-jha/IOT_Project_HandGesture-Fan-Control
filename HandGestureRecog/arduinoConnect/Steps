@@ -1,0 +1,10 @@
+1. Hardware Setup
+Arduino Board: Make sure you have an Arduino board (e.g., Arduino Uno).
+Fan: Connect a small DC fan to the Arduino using a transistor to control the fan speed. The transistor will act as a switch.
+Wiring: Connect the Arduino to your computer via USB.
+2. Install Required Libraries pyserial
+
+pip install pyserial
+
+3. Arduino Code
+4. Python Code
